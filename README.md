@@ -7,9 +7,7 @@ Our project involves the following steps:
 
 1. **Data Collection:** Gather datasets containing loan application details (e.g., demographic data, income, credit history, loan amount, etc.).
 Obtain historical data where loan approval decisions are already known.
-
 2. **Data Exploration:** We conducted an in-depth analysis of the dataset to understand the impact of attributes like marital status, education, and employment status on loan eligibility.
-
 3. **Data Preprocessing:** We handled missing values,Null values, outliers, and encoded categorical variables to prepare the data for model training.
 4. **Odservation and Feature Analysis:** We explored trends and correlations in the data, uncovering insights into factors affecting loan approvals.
 5. **Model Selection:**  We implemented and compared classification models, including Logistic Regression and K-Nearest Neighbors (KNN), Random Forest Classification, XGBClassification to determine the best-performing algorithm for loan prediction.
@@ -23,7 +21,7 @@ Obtain historical data where loan approval decisions are already known.
 3. **Data Insights:** Analyzed patterns in the new customer data to identify trends such as the percentage of married individuals in semiurban areas who obtained loans.
 4. **Visualization:** Utilized visualizations to understand the distribution of loan status across different attributes like marital status and employment.
 
-# **Packages **
+# Packages 
 1. pandas
 2. Numpy
 3. Sci-kit
@@ -31,7 +29,7 @@ Obtain historical data where loan approval decisions are already known.
 5. Plotly
 6. XGBClassifier
 
-## **Performance Metric**
+# **Performance Metric**
 
 1. *Logistic regression*
    precision    recall  f1-score   support
