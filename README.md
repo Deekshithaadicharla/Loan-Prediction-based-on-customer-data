@@ -24,11 +24,11 @@ Obtain historical data where loan approval decisions are already known.
 4. **Visualization:** Utilized visualizations to understand the distribution of loan status across different attributes like marital status and employment.
 
 # **Packages **
-1. *pandas
-2. *Numpy
-3. *Sci-kit
-4. *Seaborn
-5. *Plotly
+1. pandas
+2. Numpy
+3. Sci-kit
+4. Seaborn
+5. Plotly
 6. XGBClassifier
 
 ## **Performance Metric**
