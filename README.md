@@ -73,7 +73,7 @@ weighted avg       0.75      0.75      0.74       15
 
 # **Insights and Analysis**
 
-*The Logistic Regression model demonstrates superior performance compared to K-Nearest Neighbors (KNN) with a higher accuracy of 79% versus 75% versus 79% versus 75%.
-*Both logistic Regression and Random Forest Classifier algorithms have the same overall accuracy (79.2%), but when choosing between them, we must consider the performance metrics specific to our project's goals, particularly precision, recall, and f1-score for the target classes.Based on the metrics we used Logistic Regression. 
-*Key insights from the new customer data reveal significant trends, such as the percentage of married individuals in semiurban areas who secured loans.
+1.The Logistic Regression model demonstrates superior performance compared to K-Nearest Neighbors (KNN) with a higher accuracy of 79% versus 75% versus 79% versus 75%.
+2.Both logistic Regression and Random Forest Classifier algorithms have the same overall accuracy (79.2%), but when choosing between them, we must consider the performance metrics specific to our project's goals, particularly precision, recall, and f1-score for the target classes.Based on the metrics we used Logistic Regression. 
+3.Key insights from the new customer data reveal significant trends, such as the percentage of married individuals in semiurban areas who secured loans.
 
